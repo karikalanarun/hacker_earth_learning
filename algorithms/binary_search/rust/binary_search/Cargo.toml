@@ -1,0 +1,6 @@
+[package]
+name = "binary_search"
+version = "0.1.0"
+authors = ["Arun Karikalan <arun.karikalan@zohocorp.com>"]
+
+[dependencies]
